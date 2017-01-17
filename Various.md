@@ -10,3 +10,5 @@
 ##0115 Learn about GSOC
 
 ##0116 Start to devote myself in GSOC2017
+
+##0117 Prepare for the GSOC2017 [0]
