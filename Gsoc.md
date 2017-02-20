@@ -24,4 +24,6 @@
 
 ##0216 Trying Optimize Iregnet with Eigen[4]
 
-##0220 Debug[0]
+##0219 Debug[0]
+
+##0220 Debug[1]
