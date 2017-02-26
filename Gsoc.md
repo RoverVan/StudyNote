@@ -31,3 +31,5 @@
 ##0222 Optimize [0]
 
 ##0223 Optimize [1]
+
+##0224 Optimize [2] nice optimize but still not as faster as glmnet
