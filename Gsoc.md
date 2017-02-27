@@ -33,3 +33,5 @@
 ##0223 Optimize [1]
 
 ##0224 Optimize [2] nice optimize but still not as faster as glmnet
+
+##0227 Optimize [3] when the 'thresh' is 1e-3, iregnet is only 1.5 times slower than glmnet in test_ElemStatLearn
