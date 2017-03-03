@@ -39,3 +39,5 @@
 ##0228 Optimize [3] when the 'thresh' is 1e-3, iregnet is faster than glmnet in test_ElemStatLearn
 
 ##0301 Review the related paper
+
+##0302 Optimize [4] optimize in large data
