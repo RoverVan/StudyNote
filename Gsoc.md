@@ -45,3 +45,5 @@
 ##0303 Optimize [5] optimize in large data
 
 ##0304 Optimize [6] optimize in large data
+
+##0305 Optimize [7] optimize in loglik
