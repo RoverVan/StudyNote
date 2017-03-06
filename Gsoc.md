@@ -47,3 +47,5 @@
 ##0304 Optimize [6] optimize in large data
 
 ##0305 Optimize [7] optimize in loglik
+
+##0306 Try Lapack
