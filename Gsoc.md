@@ -49,3 +49,5 @@
 ##0305 Optimize [7] optimize in loglik
 
 ##0306 Try Lapack
+
+##0307 Try Openblas
