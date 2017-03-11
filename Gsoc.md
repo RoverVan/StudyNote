@@ -57,3 +57,5 @@
 ##0309 fix for other family
 
 ##0310 Find Optimize Way in Gaussian
+
+##0311 Try Armadillo + Openblas
