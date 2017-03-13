@@ -61,3 +61,5 @@
 ##0311 Try Armadillo + Openblas
 
 ##0312 Rewrite Code using Armadillo
+
+##0313 Focus on different censor type
