@@ -64,4 +64,4 @@
 
 ##0313 Focus on different censor type
 
-##0314 Make other censor type adapted
+##0314 Make other censor type adapted && test different C++ linear algebra library speed
