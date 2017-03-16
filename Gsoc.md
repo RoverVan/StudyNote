@@ -67,3 +67,5 @@
 ##0314 Make other censor type adapted && test different C++ linear algebra library speed
 
 ##0315 Application[0]
+
+##0316 Application[1]
