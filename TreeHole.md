@@ -7,3 +7,5 @@
 ##0413 Create LoginController
 
 ##0415 fixing spring security
+
+##0416 User Model Complete
