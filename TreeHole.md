@@ -8,4 +8,6 @@
 
 ##0415 fixing spring security
 
-##0416 User Model Complete
+##0417 User Model Complete
+
+##0418 WechatLogin Api
