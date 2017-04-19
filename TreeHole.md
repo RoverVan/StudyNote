@@ -11,3 +11,5 @@
 ##0417 User Model Complete
 
 ##0418 WechatLogin Api
+
+##0419 User UnitTest
