@@ -19,3 +19,5 @@
 ##0507 start front-end
 
 ##0508 front-end with vue
+
+##0511 Add Redis For Token
