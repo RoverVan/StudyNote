@@ -37,3 +37,5 @@
 ##0516 Install Server
 
 ##0517 Upload to server success
+
+##0518 The First Frontend Done
