@@ -39,3 +39,5 @@
 ##0517 Upload to server success
 
 ##0518 The First Frontend Done
+
+##0518 The Second Frontend Done
