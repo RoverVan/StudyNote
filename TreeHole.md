@@ -43,3 +43,5 @@
 ##0518 The Second Frontend Done
 
 ##0520 Job done
+
+##0522 Register
