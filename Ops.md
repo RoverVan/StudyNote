@@ -66,4 +66,6 @@
 
 ##0708 fever
 
-##0714 vocation 
+##0714 vocation[0] 
+
+##0714 vocation[1] 
