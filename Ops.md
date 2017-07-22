@@ -71,3 +71,5 @@
 ##0714 vocation[1] 
 
 ##0715 vocation[2] 
+
+##0722 weekend
