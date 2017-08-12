@@ -75,3 +75,5 @@
 ##0722 weekend
 
 ##0805 weekend
+
+##0812 Sick
