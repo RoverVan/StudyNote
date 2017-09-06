@@ -9,3 +9,6 @@ Review the Solutions of Chapter 02
 
 ##0810
 Greedy
+
+##0906
+Cross of two Linklist
